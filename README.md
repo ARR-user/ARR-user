@@ -14,7 +14,7 @@
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ARR-user)](https://github.com/ARR-user/github-readme-stats)
 
 
 <!--[![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARR-user)](https://github.com/Arr-user/github-readme-stats)-->
