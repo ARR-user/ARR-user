@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARR-user&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARR-user&layout=compact)
 [![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARR-user)](https://github.com/Arr-user/github-readme-stats)
 
 <!--
